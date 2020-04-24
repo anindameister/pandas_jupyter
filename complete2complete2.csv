@@ -1,0 +1,52 @@
+Image name,Object number,X1,Y1,X2,Y2,object name,X-centre,Y-centre,X-Image Dimentions,Y-Image Dimentions,(1/4)*Y-cordinates,(1/4)*X-cordinates,y centre of object,x centre of object,X centre < (1/4)*X-cordinates,has on the left,has on the right,has on the top,has on the buttom,has in the center,has isolated object,right of,bottom of,top of,left of,least x,least y,max y,max x,max x centre object,min x centre object,max y centre object,min y centre object,diagonal object
+download (1).jpg.txt,2,26,22,277,144,car,151.5,83,168,299,74.75,42,83,151.5,FALSE,car,car,na,na,na,car,na,na,na,na,151.5,83,83,151.5,car,car,car,car,279.0788419
+download (10).jpg.txt,15,47,6,276,164,cat,161.5,85,168,300,75,42,85,161.5,FALSE,cat,cat,na,na,na,na,cat,cat,na,na,42,57,85,161.5,cat,cup,cat,cup,278.2175408
+download (10).jpg.txt,41,1,0,83,114,cup,42,57,168,300,75,42,57,42,FALSE,cup,na,cup,na,na,cup,na,na,cup,cup,42,57,85,161.5,cat,cup,cat,cup,140.4279175
+download (11).jpg.txt,15,18,3,265,164,cat,141.5,83.5,168,300,75,42,83.5,141.5,FALSE,cat,cat,na,na,na,na,na,na,na,na,141.5,83.5,83.5,141.5,cat,cat,cat,cat,294.8389391
+download (12).jpg.txt,15,1,10,181,217,cat,91,113.5,224,225,56.25,56,113.5,91,FALSE,cat,na,na,na,na,cat,na,na,na,cat,91,113.5,113.5,114.5,diningtable,cat,cat,diningtable,274.3155118
+download (12).jpg.txt,60,8,9,221,218,diningtable,114.5,113.5,224,225,56.25,56,113.5,114.5,FALSE,diningtable,na,na,na,na,na,diningtable,na,na,na,91,113.5,113.5,114.5,diningtable,cat,cat,diningtable,298.4124662
+download (13).jpg.txt,15,35,0,257,159,cat,146,79.5,159,318,79.5,39.75,79.5,146,FALSE,cat,cat,na,na,na,na,na,na,na,na,146,79.5,79.5,146,cat,cat,cat,cat,273.0659261
+download (14).jpg.txt,20,84,34,209,170,elephant,146.5,102,194,259,64.75,48.5,102,146.5,FALSE,elephant,elephant,na,na,na,na,elephant,elephant,na,na,46,99,102,146.5,elephant,elephant,elephant,elephant,184.7187051
+download (14).jpg.txt,20,4,36,88,162,elephant,46,99,194,259,64.75,48.5,99,46,TRUE,na,na,na,na,na,na,na,na,elephant,elephant,46,99,102,146.5,elephant,elephant,elephant,elephant,151.4331536
+download (15).jpg.txt,20,196,55,255,114,elephant,225.5,84.5,168,300,75,42,84.5,225.5,FALSE,elephant,elephant,na,na,na,na,elephant,elephant,elephant,cow,39,83,106.5,276.5,elephant,cow,elephant,elephant,83.43860018
+download (15).jpg.txt,19,77,58,155,115,cow,116,86.5,168,300,75,42,86.5,116,FALSE,cow,na,na,na,na,na,elephant,elephant,elephant,cow,39,83,106.5,276.5,elephant,cow,elephant,elephant,96.60745313
+download (15).jpg.txt,20,254,50,299,116,elephant,276.5,83,168,300,75,42,83,276.5,FALSE,elephant,elephant,na,na,na,na,elephant,na,elephant,na,39,83,106.5,276.5,elephant,cow,elephant,elephant,79.88116173
+download (15).jpg.txt,19,7,74,71,122,cow,39,98,168,300,75,42,98,39,TRUE,na,na,na,na,na,na,na,elephant,elephant,cow,39,83,106.5,276.5,elephant,cow,elephant,elephant,80
+download (15).jpg.txt,19,171,83,194,118,cow,182.5,100.5,168,300,75,42,100.5,182.5,FALSE,cow,cow,na,na,na,cow,elephant,elephant,elephant,cow,39,83,106.5,276.5,elephant,cow,elephant,elephant,41.88078318
+download (15).jpg.txt,19,241,52,300,115,cow,270.5,83.5,168,300,75,42,83.5,270.5,FALSE,cow,cow,na,na,na,cow,elephant,elephant,elephant,cow,39,83,106.5,276.5,elephant,cow,elephant,elephant,86.31338251
+download (15).jpg.txt,20,69,74,88,118,elephant,78.5,96,168,300,75,42,96,78.5,FALSE,elephant,na,na,na,na,elephant,elephant,elephant,elephant,cow,39,83,106.5,276.5,elephant,cow,elephant,elephant,47.92702787
+download (15).jpg.txt,20,79,53,162,114,elephant,120.5,83.5,168,300,75,42,83.5,120.5,FALSE,elephant,na,na,na,na,na,elephant,elephant,elephant,cow,39,83,106.5,276.5,elephant,cow,elephant,elephant,103.0048543
+download (15).jpg.txt,20,159,96,174,117,elephant,166.5,106.5,168,300,75,42,106.5,166.5,FALSE,elephant,elephant,na,na,na,elephant,elephant,elephant,na,cow,39,83,106.5,276.5,elephant,cow,elephant,elephant,25.8069758
+download (16).jpg.txt,20,41,8,169,165,elephant,105,86.5,184,274,68.5,46,86.5,105,FALSE,elephant,na,na,na,na,na,na,na,elephant,elephant,105,86.5,125,176,elephant,elephant,elephant,elephant,202.5660386
+download (16).jpg.txt,20,139,85,213,165,elephant,176,125,184,274,68.5,46,125,176,FALSE,elephant,elephant,na,na,na,elephant,elephant,elephant,na,na,105,86.5,125,176,elephant,elephant,elephant,elephant,108.9770618
+download (17).jpg.txt,20,21,20,200,155,elephant,110.5,87.5,183,275,68.75,45.75,87.5,110.5,FALSE,elephant,na,na,na,na,na,na,na,elephant,elephant,110.5,87.5,123,179,car,elephant,car,elephant,224.2008029
+download (17).jpg.txt,2,137,91,221,155,car,179,123,183,275,68.75,45.75,123,179,FALSE,car,car,na,na,na,na,car,car,na,na,110.5,87.5,123,179,car,elephant,car,elephant,105.6030303
+download (17).jpg.txt,20,48,24,197,153,elephant,122.5,88.5,183,275,68.75,45.75,88.5,122.5,FALSE,elephant,na,na,na,na,na,car,car,elephant,elephant,110.5,87.5,123,179,car,elephant,car,elephant,197.0837385
+download (18).jpg.txt,2,83,61,259,162,car,171,111.5,190,266,66.5,47.5,111.5,171,FALSE,car,car,na,na,na,na,car,car,na,na,96.5,69.5,111.5,171,car,dog,car,dog,202.921167
+download (18).jpg.txt,16,22,6,171,133,dog,96.5,69.5,190,266,66.5,47.5,69.5,96.5,FALSE,dog,na,na,na,na,na,na,na,dog,dog,96.5,69.5,111.5,171,car,dog,car,dog,195.7804893
+download (19).jpg.txt,20,48,26,249,150,elephant,148.5,88,179,281,70.25,44.75,88,148.5,FALSE,elephant,elephant,na,na,na,na,elephant,na,elephant,na,135,88,125,148.5,elephant,car,car,elephant,236.1715478
+download (19).jpg.txt,2,103,104,167,146,car,135,125,179,281,70.25,44.75,125,135,FALSE,car,car,na,na,na,na,na,car,na,car,135,88,125,148.5,elephant,car,car,elephant,76.55063684
+download (2).jpg.txt,2,66,54,248,131,car,157,92.5,168,300,75,42,92.5,157,FALSE,car,car,na,na,na,na,na,car,na,car,157,80.5,92.5,252,car,car,car,car,197.618319
+download (2).jpg.txt,2,234,73,270,88,car,252,80.5,168,300,75,42,80.5,252,FALSE,car,car,na,na,na,na,car,na,car,na,157,80.5,92.5,252,car,car,car,car,39
+download (3).jpg.txt,0,245,33,279,144,person,262,88.5,168,300,75,42,88.5,262,FALSE,person,person,na,na,na,na,person,na,person,na,133.5,88.5,109.5,262,person,car,car,person,116.090482
+download (3).jpg.txt,2,18,64,249,155,car,133.5,109.5,168,300,75,42,109.5,133.5,FALSE,car,car,na,na,na,na,na,car,na,car,133.5,88.5,109.5,262,person,car,car,person,248.2780699
+download (4).jpg.txt,2,18,34,241,146,car,129.5,90,194,259,64.75,48.5,90,129.5,FALSE,car,na,na,na,na,na,na,na,na,na,129.5,90,90,129.5,car,car,car,car,249.545587
+download (5).jpg.txt,2,0,32,275,141,car,137.5,86.5,183,275,68.75,45.75,86.5,137.5,FALSE,car,car,na,na,na,na,na,na,na,na,137.5,86.5,86.5,137.5,car,car,car,car,295.8141308
+download (6).jpg.txt,5,9,47,231,118,bus,120,82.5,194,259,64.75,48.5,82.5,120,FALSE,bus,na,na,na,na,na,na,na,na,na,120,82.5,82.5,120,bus,bus,bus,bus,233.0772404
+download (7).jpg.txt,5,26,54,247,153,bus,136.5,103.5,172,293,73.25,43,103.5,136.5,FALSE,bus,bus,na,na,na,na,bus,bus,na,na,6,87.5,103.5,136.5,bus,traffic light,bus,traffic light,242.1611034
+download (7).jpg.txt,9,4,83,8,92,traffic light,6,87.5,172,293,73.25,43,87.5,6,TRUE,na,na,na,na,na,na,na,na,traffic light,traffic light,6,87.5,103.5,136.5,bus,traffic light,bus,traffic light,9.848857802
+download (8).jpg.txt,5,11,28,292,142,bus,151.5,85,159,318,79.5,39.75,85,151.5,FALSE,bus,bus,na,na,na,na,na,na,na,na,151.5,85,85,151.5,bus,bus,bus,bus,303.2441261
+download (9).jpg.txt,5,15,39,242,154,bus,128.5,96.5,194,259,64.75,48.5,96.5,128.5,FALSE,bus,na,na,na,na,na,na,na,bus,bus,128.5,96.5,111,256.5,person,bus,person,bus,254.4680727
+download (9).jpg.txt,0,254,96,259,126,person,256.5,111,194,259,64.75,48.5,111,256.5,FALSE,person,person,na,na,na,na,person,person,na,na,128.5,96.5,111,256.5,person,bus,person,bus,30.41381265
+download.jpg.txt,2,38,64,241,154,car,139.5,109,171,295,73.75,42.75,109,139.5,FALSE,car,car,na,na,na,na,na,na,na,na,139.5,109,109,139.5,car,car,car,car,222.0562992
+images (1).jpg.txt,20,67,35,246,157,elephant,156.5,96,194,259,64.75,48.5,96,156.5,FALSE,elephant,elephant,na,na,na,na,car,na,elephant,truck,137,96,147.5,172,car,truck,car,elephant,216.6217902
+images (1).jpg.txt,7,52,36,253,175,truck,152.5,105.5,194,259,64.75,48.5,105.5,152.5,FALSE,truck,truck,na,na,na,na,car,car,elephant,truck,137,96,147.5,172,car,truck,car,elephant,244.3808503
+images (1).jpg.txt,2,85,102,259,193,car,172,147.5,194,259,64.75,48.5,147.5,172,FALSE,car,car,na,car,na,na,car,car,na,na,137,96,147.5,172,car,truck,car,elephant,196.3593644
+images (1).jpg.txt,7,19,65,255,194,truck,137,129.5,194,259,64.75,48.5,129.5,137,FALSE,truck,na,na,na,na,na,na,car,elephant,truck,137,96,147.5,172,car,truck,car,elephant,268.9553866
+images (1).jpg.txt,2,60,98,259,194,car,159.5,146,194,259,64.75,48.5,146,159.5,FALSE,car,car,na,car,na,na,car,car,elephant,truck,137,96,147.5,172,car,truck,car,elephant,220.9456947
+images.jpg.txt,0,156,96,291,173,person,223.5,134.5,173,291,72.75,43.25,134.5,223.5,FALSE,person,person,na,person,na,na,person,person,na,person,52,84,134.5,273.5,person,person,person,elephant,155.4155719
+images.jpg.txt,2,0,44,167,173,car,83.5,108.5,173,291,72.75,43.25,108.5,83.5,FALSE,car,na,na,na,na,na,person,person,elephant,person,52,84,134.5,273.5,person,person,person,elephant,211.0213259
+images.jpg.txt,20,86,0,250,168,elephant,168,84,173,291,72.75,43.25,84,168,FALSE,elephant,elephant,na,na,na,na,person,na,elephant,person,52,84,134.5,273.5,person,person,person,elephant,234.7764895
+images.jpg.txt,0,261,114,286,153,person,273.5,133.5,173,291,72.75,43.25,133.5,273.5,FALSE,person,person,na,person,na,na,person,person,elephant,na,52,84,134.5,273.5,person,person,person,elephant,46.32493929
+images.jpg.txt,0,41,108,63,145,person,52,126.5,173,291,72.75,43.25,126.5,52,FALSE,person,na,na,na,na,na,na,person,elephant,person,52,84,134.5,273.5,person,person,person,elephant,43.0464865
+images.jpg.txt,0,42,109,62,129,person,52,119,173,291,72.75,43.25,119,52,FALSE,person,na,na,na,na,na,na,person,elephant,person,52,84,134.5,273.5,person,person,person,elephant,28.28427125

@@ -1,0 +1,23 @@
+Image name,Dimentions,X-cordinates,Y-cordinates,object name consolidated,(1/4)*X-cordinates,(1/4)*Y-cordinates,no. of objects,min X centre,max X centre,isolated objects,max y centre,min Y-centre,max x centre object,min x centre object,max y centre object,min y centre object
+download (1).jpg.txt,"(168, 299, 3)",168,299,car,42,74.75,1,151.5,151.5,car,83,83,car,car,car,car
+download (10).jpg.txt,"(168, 300, 3)",168,300,"cat, cup",42,75,2,42,161.5,na,85,57,cat,cup,cat,cup
+download (11).jpg.txt,"(168, 300, 3)",168,300,cat,42,75,1,141.5,141.5,cat,83.5,83.5,cat,cat,cat,cat
+download (12).jpg.txt,"(224, 225, 3)",224,225,"cat, diningtable",56,56.25,2,91,114.5,na,113.5,113.5,diningtable,cat,cat,diningtable
+download (13).jpg.txt,"(159, 318, 3)",159,318,cat,39.75,79.5,1,146,146,cat,79.5,79.5,cat,cat,cat,cat
+download (14).jpg.txt,"(194, 259, 3)",194,259,"elephant, elephant",48.5,64.75,2,46,146.5,na,102,99,elephant,elephant,elephant,elephant
+download (15).jpg.txt,"(168, 300, 3)",168,300,"elephant, cow, elephant, cow, cow, cow, elephant, elephant, elephant",42,75,9,39,276.5,na,106.5,83,elephant,cow,elephant,elephant
+download (16).jpg.txt,"(184, 274, 3)",184,274,"elephant, elephant",46,68.5,2,105,176,na,125,86.5,elephant,elephant,elephant,elephant
+download (17).jpg.txt,"(183, 275, 3)",183,275,"elephant, car, elephant",45.75,68.75,3,110.5,179,na,123,87.5,car,elephant,car,elephant
+download (18).jpg.txt,"(190, 266, 3)",190,266,"car, dog",47.5,66.5,2,96.5,171,na,111.5,69.5,car,dog,car,dog
+download (19).jpg.txt,"(179, 281, 3)",179,281,"elephant, car",44.75,70.25,2,135,148.5,na,125,88,elephant,car,car,elephant
+download (2).jpg.txt,"(168, 300, 3)",168,300,"car, car",42,75,2,157,252,na,92.5,80.5,car,car,car,car
+download (3).jpg.txt,"(168, 300, 3)",168,300,"person, car",42,75,2,133.5,262,na,109.5,88.5,person,car,car,person
+download (4).jpg.txt,"(194, 259, 3)",194,259,car,48.5,64.75,1,129.5,129.5,car,90,90,car,car,car,car
+download (5).jpg.txt,"(183, 275, 3)",183,275,car,45.75,68.75,1,137.5,137.5,car,86.5,86.5,car,car,car,car
+download (6).jpg.txt,"(194, 259, 3)",194,259,bus,48.5,64.75,1,120,120,bus,82.5,82.5,bus,bus,bus,bus
+download (7).jpg.txt,"(172, 293, 3)",172,293,"bus, traffic light",43,73.25,2,6,136.5,na,103.5,87.5,bus,traffic light,bus,traffic light
+download (8).jpg.txt,"(159, 318, 3)",159,318,bus,39.75,79.5,1,151.5,151.5,bus,85,85,bus,bus,bus,bus
+download (9).jpg.txt,"(194, 259, 3)",194,259,"bus, person",48.5,64.75,2,128.5,256.5,na,111,96.5,person,bus,person,bus
+download.jpg.txt,"(171, 295, 3)",171,295,car,42.75,73.75,1,139.5,139.5,car,109,109,car,car,car,car
+images (1).jpg.txt,"(194, 259, 3)",194,259,"elephant, truck, car, truck, car",48.5,64.75,5,137,172,na,147.5,96,car,truck,car,elephant
+images.jpg.txt,"(173, 291, 3)",173,291,"person, car, elephant, person, person, person",43.25,72.75,6,52,273.5,na,134.5,84,person,person,person,elephant
