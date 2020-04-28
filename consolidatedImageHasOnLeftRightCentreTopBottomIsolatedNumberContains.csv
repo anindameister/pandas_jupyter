@@ -1,0 +1,23 @@
+Image name,has on the left,has on the right,has in the centre,has on the top,has on the bottom,Dimentions,contains,isolated objects,no of objects
+download (1).jpg.txt,na,car,car,na,car,"(168, 299, 3)",car,car,1
+download (10).jpg.txt,"na, na","cat, na","cat, cup","na, cup","cat, na","(168, 300, 3)","cat, cup",na,2
+download (11).jpg.txt,na,cat,cat,na,cat,"(168, 300, 3)",cat,cat,1
+download (12).jpg.txt,"na, na","cat, diningtable","cat, diningtable","na, na","cat, diningtable","(224, 225, 3)","cat, diningtable",na,2
+download (13).jpg.txt,na,cat,cat,na,na,"(159, 318, 3)",cat,cat,1
+download (14).jpg.txt,"na, elephant","elephant, na","elephant, elephant","na, na","elephant, elephant","(194, 259, 3)","elephant, elephant",na,2
+download (15).jpg.txt,"na, na, na, cow, na, na, na, na, na","elephant, cow, elephant, na, cow, cow, elephant, elephant, elephant","elephant, cow, elephant, cow, cow, cow, elephant, elephant, elephant","na, na, na, na, na, na, na, na, na","elephant, cow, elephant, cow, cow, cow, elephant, elephant, elephant","(168, 300, 3)","elephant, cow, elephant, cow, cow, cow, elephant, elephant, elephant",na,9
+download (16).jpg.txt,"na, na","elephant, elephant","elephant, elephant","na, na","elephant, elephant","(184, 274, 3)","elephant, elephant",na,2
+download (17).jpg.txt,"na, na, na","elephant, car, elephant","elephant, car, elephant","na, na, na","elephant, car, elephant","(183, 275, 3)","elephant, car, elephant",na,3
+download (18).jpg.txt,"na, na","car, dog","car, dog","na, na","car, dog","(190, 266, 3)","car, dog",na,2
+download (19).jpg.txt,"na, na","elephant, car","elephant, car","na, na","elephant, car","(179, 281, 3)","elephant, car",na,2
+download (2).jpg.txt,"na, na","car, car","car, car","na, na","car, car","(168, 300, 3)","car, car",na,2
+download (3).jpg.txt,"na, na","person, car","person, car","na, na","person, car","(168, 300, 3)","person, car",na,2
+download (4).jpg.txt,na,car,car,na,car,"(194, 259, 3)",car,car,1
+download (5).jpg.txt,na,car,car,na,car,"(183, 275, 3)",car,car,1
+download (6).jpg.txt,na,bus,bus,na,bus,"(194, 259, 3)",bus,bus,1
+download (7).jpg.txt,"na, traffic light","bus, na","bus, traffic light","na, na","bus, traffic light","(172, 293, 3)","bus, traffic light",na,2
+download (8).jpg.txt,na,bus,bus,na,bus,"(159, 318, 3)",bus,bus,1
+download (9).jpg.txt,"na, na","bus, person","bus, person","na, na","bus, person","(194, 259, 3)","bus, person",na,2
+download.jpg.txt,na,car,car,na,car,"(171, 295, 3)",car,car,1
+images (1).jpg.txt,"na, na, na, na, na","elephant, truck, car, truck, car","elephant, truck, car, truck, car","na, na, na, na, na","elephant, truck, car, truck, car","(194, 259, 3)","elephant, truck, car, truck, car",na,5
+images.jpg.txt,"na, na, na, na, na, na","person, car, elephant, person, person, person","person, car, elephant, person, person, person","na, na, na, na, na, na","person, car, elephant, person, person, person","(173, 291, 3)","person, car, elephant, person, person, person",na,6

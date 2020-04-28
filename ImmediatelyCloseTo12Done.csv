@@ -1,0 +1,52 @@
+Image name,object name,X-centre,Y-centre,diagonal object,ImmediatelyCloseTo1st&2nd,ImmediatelyCloseTo2nd&1st,1st&2nd
+download (1).jpg.txt,car,151.5,83,279.0788419,na,na,na
+download (10).jpg.txt,cat,161.5,85,278.2175408,cup,na,cup
+download (10).jpg.txt,cup,42,57,140.4279175,na,cat,cat
+download (11).jpg.txt,cat,141.5,83.5,294.8389391,na,na,na
+download (12).jpg.txt,cat,91,113.5,274.3155118,diningtable,na,diningtable
+download (12).jpg.txt,diningtable,114.5,113.5,298.4124662,na,cat,cat
+download (13).jpg.txt,cat,146,79.5,273.0659261,na,na,na
+download (14).jpg.txt,elephant,146.5,102,184.7187051,elephant,na,elephant
+download (14).jpg.txt,elephant,46,99,151.4331536,na,elephant,elephant
+download (15).jpg.txt,elephant,225.5,84.5,83.43860018,na,na,na
+download (15).jpg.txt,cow,116,86.5,96.60745313,na,na,na
+download (15).jpg.txt,elephant,276.5,83,79.88116173,na,na,na
+download (15).jpg.txt,cow,39,98,80,na,na,na
+download (15).jpg.txt,cow,182.5,100.5,41.88078318,na,na,na
+download (15).jpg.txt,cow,270.5,83.5,86.31338251,na,na,na
+download (15).jpg.txt,elephant,78.5,96,47.92702787,elephant,na,elephant
+download (15).jpg.txt,elephant,120.5,83.5,103.0048543,elephant,elephant,elephant
+download (15).jpg.txt,elephant,166.5,106.5,25.8069758,na,elephant,elephant
+download (16).jpg.txt,elephant,105,86.5,202.5660386,elephant,na,elephant
+download (16).jpg.txt,elephant,176,125,108.9770618,na,elephant,elephant
+download (17).jpg.txt,elephant,110.5,87.5,224.2008029,car,na,car
+download (17).jpg.txt,car,179,123,105.6030303,elephant,elephant,elephant
+download (17).jpg.txt,elephant,122.5,88.5,197.0837385,na,car,car
+download (18).jpg.txt,car,171,111.5,202.921167,dog,na,dog
+download (18).jpg.txt,dog,96.5,69.5,195.7804893,na,car,car
+download (19).jpg.txt,elephant,148.5,88,236.1715478,car,na,car
+download (19).jpg.txt,car,135,125,76.55063684,na,elephant,elephant
+download (2).jpg.txt,car,157,92.5,197.618319,car,na,car
+download (2).jpg.txt,car,252,80.5,39,na,car,car
+download (3).jpg.txt,person,262,88.5,116.090482,car,na,car
+download (3).jpg.txt,car,133.5,109.5,248.2780699,na,person,person
+download (4).jpg.txt,car,129.5,90,249.545587,na,na,na
+download (5).jpg.txt,car,137.5,86.5,295.8141308,na,na,na
+download (6).jpg.txt,bus,120,82.5,233.0772404,na,na,na
+download (7).jpg.txt,bus,136.5,103.5,242.1611034,na,na,na
+download (7).jpg.txt,traffic light,6,87.5,9.848857802,na,na,na
+download (8).jpg.txt,bus,151.5,85,303.2441261,na,na,na
+download (9).jpg.txt,bus,128.5,96.5,254.4680727,person,na,person
+download (9).jpg.txt,person,256.5,111,30.41381265,na,bus,bus
+download.jpg.txt,car,139.5,109,222.0562992,na,na,na
+images (1).jpg.txt,elephant,156.5,96,216.6217902,truck,na,truck
+images (1).jpg.txt,truck,152.5,105.5,244.3808503,car,elephant,car
+images (1).jpg.txt,car,172,147.5,196.3593644,truck,truck,truck
+images (1).jpg.txt,truck,137,129.5,268.9553866,car,car,car
+images (1).jpg.txt,car,159.5,146,220.9456947,na,truck,truck
+images.jpg.txt,person,223.5,134.5,155.4155719,car,na,car
+images.jpg.txt,car,83.5,108.5,211.0213259,elephant,person,elephant
+images.jpg.txt,elephant,168,84,234.7764895,person,car,person
+images.jpg.txt,person,273.5,133.5,46.32493929,na,elephant,elephant
+images.jpg.txt,person,52,126.5,43.0464865,person,na,person
+images.jpg.txt,person,52,119,28.28427125,na,person,person

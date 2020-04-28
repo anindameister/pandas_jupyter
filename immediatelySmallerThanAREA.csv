@@ -1,0 +1,52 @@
+Image name,object name,area of bb,immediatelySmallerThan
+download (1).jpg.txt,car,30622,na
+download (10).jpg.txt,cup,9348,cat
+download (10).jpg.txt,cat,36182,na
+download (11).jpg.txt,cat,39767,na
+download (12).jpg.txt,diningtable,37260,cat
+download (12).jpg.txt,cat,44517,na
+download (13).jpg.txt,cat,35298,na
+download (14).jpg.txt,elephant,10584,elephant
+download (14).jpg.txt,elephant,17000,na
+download (15).jpg.txt,elephant,315,cow
+download (15).jpg.txt,cow,805,elephant
+download (15).jpg.txt,elephant,836,cow
+download (15).jpg.txt,cow,2970,cow
+download (15).jpg.txt,cow,3072,cow
+download (15).jpg.txt,cow,3481,elephant
+download (15).jpg.txt,elephant,3717,elephant
+download (15).jpg.txt,elephant,4446,elephant
+download (15).jpg.txt,elephant,5063,na
+download (16).jpg.txt,elephant,5920,elephant
+download (16).jpg.txt,elephant,20096,na
+download (17).jpg.txt,elephant,5376,car
+download (17).jpg.txt,car,19221,elephant
+download (17).jpg.txt,elephant,24165,na
+download (18).jpg.txt,car,17776,dog
+download (18).jpg.txt,dog,18923,na
+download (19).jpg.txt,elephant,2688,car
+download (19).jpg.txt,car,24924,na
+download (2).jpg.txt,car,540,car
+download (2).jpg.txt,car,14014,na
+download (3).jpg.txt,car,3774,person
+download (3).jpg.txt,person,21021,na
+download (4).jpg.txt,car,24976,na
+download (5).jpg.txt,car,29975,na
+download (6).jpg.txt,bus,15762,na
+download (7).jpg.txt,traffic light,36,bus
+download (7).jpg.txt,bus,21879,na
+download (8).jpg.txt,bus,32034,na
+download (9).jpg.txt,person,150,bus
+download (9).jpg.txt,bus,26105,na
+download.jpg.txt,car,18270,na
+images (1).jpg.txt,truck,15834,car
+images (1).jpg.txt,car,19104,elephant
+images (1).jpg.txt,elephant,21838,truck
+images (1).jpg.txt,truck,27939,car
+images (1).jpg.txt,car,30444,na
+images.jpg.txt,elephant,400,person
+images.jpg.txt,person,814,person
+images.jpg.txt,person,975,person
+images.jpg.txt,person,10395,car
+images.jpg.txt,car,21543,person
+images.jpg.txt,person,27552,na

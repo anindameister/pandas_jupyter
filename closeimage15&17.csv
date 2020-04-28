@@ -1,0 +1,9 @@
+Image name,object name,X-centre,Y-centre,diagonal object,1st,2nd,3rd
+download (15).jpg.txt,cow,182.5,100.5,41.88078318,elephant,#VALUE!,elephant
+download (15).jpg.txt,elephant,276.5,83,79.88116173,cow,cow,cow
+download (15).jpg.txt,cow,39,98,80,elephant,elephant,elephant
+download (15).jpg.txt,elephant,225.5,84.5,83.43860018,na,cow,cow
+download (15).jpg.txt,cow,270.5,83.5,86.31338251,cow,na,cow
+download (15).jpg.txt,cow,116,86.5,96.60745313,na,cow,cow
+download (7).jpg.txt,traffic light,6,87.5,9.848857802,bus,na,bus
+download (7).jpg.txt,bus,136.5,103.5,242.1611034,na,traffic light,traffic light
